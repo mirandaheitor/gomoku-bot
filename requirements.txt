@@ -1,0 +1,3 @@
+pydirectinput
+pyinstaller
+Pillow
